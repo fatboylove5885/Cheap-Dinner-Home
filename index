@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>The Cheap Dinner Vault: Family Dinners With the Price Tag Shown</title>
+<meta name="description" content="25 cheap family dinners with the cost per serving shown, plus the trackers, plans and cheat sheets to run your whole week on a budget.">
+<style>
+:root{--bg:#17110D;--panel:#241B15;--ink:#F6EBDD;--mute:#BFAE9A;--red:#E24A2E;--gold:#EDB94B}
+*{box-sizing:border-box}html{scroll-behavior:smooth}
+body{margin:0;background:var(--bg);color:var(--ink);font:18px/1.65 "Segoe UI",system-ui,sans-serif;padding-bottom:72px}
+h1,h2,h3{font-family:Rockwell,"Roboto Slab",Georgia,serif;line-height:1.12;margin:0 0 .4em}
+h1{font-size:clamp(36px,7vw,64px)}h2{font-size:clamp(28px,4.5vw,40px)}h3{font-size:20px}
+section{max-width:1040px;margin:auto;padding:56px 22px}
+p{margin:0 0 1em;max-width:62ch}.mute{color:var(--mute)}
+.cta{display:inline-block;background:var(--red);color:#fff;font:800 19px "Segoe UI",sans-serif;padding:16px 34px;border-radius:12px;text-decoration:none;box-shadow:0 0 0 3px var(--gold) inset;transition:transform .15s}
+.cta:hover,.cta:focus-visible{transform:scale(1.04);outline:3px solid var(--gold);outline-offset:3px}
+.tag{display:inline-block;border:2px dashed var(--gold);color:var(--gold);border-radius:30px;padding:3px 14px;font-weight:700;font-size:15px;margin-bottom:16px}
+.hero{display:grid;gap:34px;align-items:center}@media(min-width:860px){.hero{grid-template-columns:1.05fr 1fr}}
+img{width:100%;border-radius:16px;border:2px solid #4a3a2c;display:block}
+.grid{display:grid;gap:14px;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));margin:24px 0}
+.box{background:var(--panel);border-left:5px solid var(--red);border-radius:10px;padding:16px 18px}
+.box p{margin:0;font-size:16px;color:var(--mute)}
+.steps{list-style:none;padding:0;display:grid;gap:12px;counter-reset:s}
+.steps li{counter-increment:s;background:var(--panel);border-radius:12px;padding:14px 18px 14px 64px;position:relative}
+.steps li:before{content:counter(s);position:absolute;left:16px;top:12px;width:34px;height:34px;border-radius:50%;background:var(--gold);color:#17110D;font:800 18px sans-serif;display:grid;place-items:center}
+.band{background:var(--red);text-align:center;border-radius:20px;padding:44px 22px}
+.band p{margin:0 auto 1.2em}.band .cta{background:var(--bg);box-shadow:0 0 0 3px var(--gold) inset}
+details{background:var(--panel);border-radius:10px;padding:14px 18px;margin:10px 0}summary{cursor:pointer;font-weight:700}
+.bar{position:fixed;left:0;right:0;bottom:0;background:#0d0906ee;border-top:2px solid var(--gold);padding:10px;text-align:center;z-index:9}
+.bar .cta{padding:10px 26px;font-size:17px}
+@media(prefers-reduced-motion:reduce){*{transition:none!important;scroll-behavior:auto!important}}
+</style></head><body>
+
+<section class="hero">
+<div>
+<span class="tag">$_.__ per serving, shown on every dinner</span>
+<h1>Dinner for the whole family. Price tag included.</h1>
+<p>Stop guessing what dinner costs. The Cheap Dinner Vault gives you 25 family dinners with the cost per serving worked out, plus everything you need to plan, price and cook a full week on a budget.</p>
+<a class="cta" href="https://whop.com/life-shapers/the-cheap-dinner-vault-25-family-dinners-with-the-price-tag-shown" rel="noopener" data-go>Get instant access</a>
+<p class="mute" style="margin-top:14px;font-size:15px">Instant digital delivery. Works on any phone, tablet or computer.</p>
+</div>
+<img src="images/product-1.png" alt="The Cheap Dinner Vault: a gold shelf of dinner guides and trackers" onerror="this.style.display='none'">
+</section>
+
+<section>
+<h2>Your grocery bill is not a mystery. It is a math problem.</h2>
+<p>Most "cheap dinner" lists say budget-friendly and never show a number. So you cook, check out and wince. The Vault flips that. You see the cost first, then decide what is worth making.</p>
+<p>Beginners get simple recipes and clear steps. Experienced cooks get the pricing method and stretch tricks that keep costs down week after week.</p>
+</section>
+
+<section>
+<h2>What you get inside</h2>
+<div class="grid">
+<div class="box"><h3>25 family dinners</h3><p>Pasta, chicken, ground meat, meatless, egg and soup dinners, each with a cost-per-serving badge.</p></div>
+<div class="box"><h3>The pricing method</h3><p>Price any meal in minutes using the store and month you actually shop.</p></div>
+<div class="box"><h3>Cost tracker sheets</h3><p>Printable pages to record cost, servings and cost per serving for your own favorites.</p></div>
+<div class="box"><h3>Picky-eater notes</h3><p>Simple swaps and tricks on every dinner so the whole table eats.</p></div>
+<div class="box"><h3>Stretch-it tricks</h3><p>Turn one dinner into three with smart leftovers and freezer habits.</p></div>
+<div class="box"><h3>Pantry hero list</h3><p>The six cheap staples that carry most of the menu.</p></div>
+</div>
+<img src="images/product-2.png" alt="The Vault on a laptop showing dinners with cost badges" onerror="this.style.display='none'">
+</section>
+
+<section>
+<h2>Built for real weeknights</h2>
+<p>Whatever your family eats, there is a dinner that fits your table and your budget.</p>
+<img src="images/product-3.png" alt="Pasta, chicken, meatless and soup dinners from the Vault" onerror="this.style.display='none'">
+</section>
+
+<section>
+<h2>Pick. Price. Cook. Save. Repeat.</h2>
+<ol class="steps">
+<li><b>Pick</b> three dinners that fit your week.</li>
+<li><b>Price</b> them using the simple method inside.</li>
+<li><b>Cook</b> with easy steps and picky-eater notes.</li>
+<li><b>Save</b> by stretching leftovers into extra meals.</li>
+<li><b>Repeat</b> with your own favorites on the tracker.</li>
+</ol>
+<img src="images/product-4.png" alt="Five-step flow: pick, price, cook, save, repeat" onerror="this.style.display='none'" style="margin-top:22px">
+</section>
+
+<section>
+<h2>Who this is for</h2>
+<div class="grid">
+<div class="box"><h3>Busy parents</h3><p>You need dinner on the table and the cost under control.</p></div>
+<div class="box"><h3>New cooks</h3><p>You want simple recipes with no special ingredients.</p></div>
+<div class="box"><h3>Budget planners</h3><p>You like numbers and want proof before you spend.</p></div>
+</div>
+</section>
+
+<section>
+<h2>Questions</h2>
+<details><summary>How do I get access?</summary><p>You check out securely, and access is delivered instantly after purchase.</p></details>
+<details><summary>Do I need special ingredients?</summary><p>No. Everything is found at a regular grocery store.</p></details>
+<details><summary>Can I use it on my phone?</summary><p>Yes. It works on any phone, tablet or computer, and the trackers print.</p></details>
+<details><summary>Are the prices fixed?</summary><p>Prices change by store and month, so the Vault teaches you to price meals yourself and gives you the sheets to do it.</p></details>
+</section>
+
+<section><div class="band">
+<h2>See what dinner really costs.</h2>
+<p>Get the Cheap Dinner Vault and plan your next week with the price tag in plain sight.</p>
+<a class="cta" href="https://whop.com/life-shapers/the-cheap-dinner-vault-25-family-dinners-with-the-price-tag-shown" rel="noopener" data-go>Get instant access</a>
+</div></section>
+
+<div class="bar"><a class="cta" href="https://whop.com/life-shapers/the-cheap-dinner-vault-25-family-dinners-with-the-price-tag-shown" rel="noopener" data-go>Get the Vault</a></div>
+
+<script>
+// Every button already links straight to Whop; this just guarantees the redirect.
+var WHOP_LINK = "https://whop.com/life-shapers/the-cheap-dinner-vault-25-family-dinners-with-the-price-tag-shown";
+document.querySelectorAll("[data-go]").forEach(function(a){a.addEventListener("click",function(e){e.preventDefault();window.location.href=WHOP_LINK;});});
+</script>
+</body></html>
